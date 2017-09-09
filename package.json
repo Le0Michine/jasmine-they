@@ -14,5 +14,8 @@
   },
   "devDependencies": {
     "@types/jasmine": "^2.5.54"
+  },
+  "publishConfig": {
+      "registry": "https://registry.npmjs.org/"
   }
 }
