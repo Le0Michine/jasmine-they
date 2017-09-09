@@ -1,6 +1,6 @@
 {
   "name": "jasmine-they",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NUnit like TestCase for jasmine",
   "main": "they.ts",
   "scripts": {
